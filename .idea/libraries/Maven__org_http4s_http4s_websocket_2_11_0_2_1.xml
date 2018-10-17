@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.http4s:http4s-websocket_2.11:0.2.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/http4s/http4s-websocket_2.11/0.2.1/http4s-websocket_2.11-0.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/http4s/http4s-websocket_2.11/0.2.1/http4s-websocket_2.11-0.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/http4s/http4s-websocket_2.11/0.2.1/http4s-websocket_2.11-0.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

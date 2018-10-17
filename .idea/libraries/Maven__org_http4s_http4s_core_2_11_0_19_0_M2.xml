@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.http4s:http4s-core_2.11:0.19.0-M2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/http4s/http4s-core_2.11/0.19.0-M2/http4s-core_2.11-0.19.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/http4s/http4s-core_2.11/0.19.0-M2/http4s-core_2.11-0.19.0-M2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/http4s/http4s-core_2.11/0.19.0-M2/http4s-core_2.11-0.19.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
